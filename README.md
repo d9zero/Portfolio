@@ -13,19 +13,19 @@ Start time: __5:29pm___
 
 Finish time: _5:42pm____
 
-Actual time needed to complete: _____
+Actual time needed to complete: __13mins___
 
 ## Feature #2: Refactor the CSS
 
 Number and name of feature: ________________________________
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: __2hrs___
 
 Start time: _5:42____
 
-Finish time: _5:50pm__
+Finish time: _6:10pm__
 
-Actual time needed to complete: _____
+Actual time needed to complete: _28mins____
 
 ## Feature #3: Modify the contents
 
@@ -33,8 +33,8 @@ Number and name of feature: ________________________________
 
 Estimate of time needed to complete: _____
 
-Start time: _____
+Start time: __6:20___
 
-Finish time: _____
+Finish time: __8:03___
 
-Actual time needed to complete: _____
+Actual time needed to complete: __1hr17mins___
